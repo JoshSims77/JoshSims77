@@ -1,9 +1,8 @@
-- Howdy, I am Josh Simpson
-- Currently seeking a BS in Software Development and Minor in Agriculture, hoping to turn that into a career in GIS in Agricultural Technology. 
-- I'm most interested in utilizing technology to empower local farming practices, keeping things affordable and empowering the family farmer.
-- Outside of tech, I enjoy the outdoors, strong coffee, old motorcycles and Bram Stoker's Dracula.
-- I currently am using Java, Python, and HTML/CSS/JS in my day to day life. Focusing more on backend currently. 
-  
+# <pre><sup>Howdy, </sup> <sub>I'm Josh Simpson</sub></pre>
+
+I'm currently seeking a BS in Software Development with a Minor in Agriculture, aiming to pursue a career in GIS within Agricultural Technology. My main interest lies in utilizing technology to empower local farming practices, ensuring affordability and supporting family farmers. Outside of tech, I enjoy the outdoors, strong coffee, old motorcycles, and collecting copies of Bram Stoker's Dracula.
+
+I'm currently open to joining new projects!
 
 
 <!---
