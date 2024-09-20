@@ -1,6 +1,6 @@
-# <pre><sup>Howdy, </sup> <sub>I'm Josh Simpson</sub></pre>
+## __*“Enter freely and of your own free will!”*__
 
-I'm currently seeking a BS in Software Development with a Minor in Agriculture, aiming to pursue a career in GIS within Agricultural Technology. My main interest lies in utilizing technology to empower local farming practices, ensuring affordability and supporting family farmers. Outside of tech, I enjoy the outdoors, strong coffee, old motorcycles, and collecting copies of Bram Stoker's Dracula.
+I'm Josh Simpson. Currently, I spend my time seeking a BS in Software Development with a Minor in Agriculture, aiming to pursue a career in GIS within Agricultural Technology. My main interest lies in utilizing technology to empower local farming practices, ensuring affordability and supporting family farmers. Outside of tech, I enjoy the outdoors, strong coffee, old motorcycles, and collecting copies of Bram Stoker's Dracula.
 
 I'm currently open to joining new projects!
 
