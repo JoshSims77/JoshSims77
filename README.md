@@ -2,7 +2,7 @@
 
 I'm Josh. Outside of tech, I enjoy the outdoors, strong coffee, old motorcycles, and collecting copies of Bram Stoker's Dracula.
 
-I'm currently open to joining new projects!
+
 
 
 <!---
