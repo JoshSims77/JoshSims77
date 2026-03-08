@@ -2,7 +2,7 @@
 
 I'm Josh. Outside of tech, I enjoy the outdoors, strong coffee, old motorcycles, and collecting copies of Bram Stoker's Dracula.
 
-I build support tools that turn messy data into clear whats, whys, and hows, Especially when pertaining to regenerative agriculture and animal welfare.
+I like to build support tools that turn messy data into clear whats, whys, and hows — especially in regenerative agriculture and animal welfare.
 
 
 <!---
